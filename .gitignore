@@ -11,3 +11,4 @@ runs/
 *.pt
 *.onnx
 *.engine
+external/TrackEval/
