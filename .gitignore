@@ -1,0 +1,33 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Datasets
+data/
+datasets/
+
+# Models / weights
+weights/
+*.pt
+*.pth
+*.onnx
+*.engine
+
+# Training / evaluation outputs
+runs/
+results/
+outputs/
+
+# External repositories
+external/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
